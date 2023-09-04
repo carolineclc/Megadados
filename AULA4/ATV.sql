@@ -37,3 +37,4 @@ ADD COLUMN (
 ALTER TABLE Ingrediente
 MODIFY COLUMN
 	tipo VARCHAR(100);
+    
